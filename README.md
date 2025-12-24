@@ -4,7 +4,9 @@ This repository contains basics, DSA, and other required for a fresher trying to
 1) OPERATING SYSTEM.
    
    ---Introduction to OS.
+   
    ---Functions of OS.
+   
    ---Types of OS.
        |_a)Batch OS
          b)Multiprogrammed OS.
@@ -13,6 +15,7 @@ This repository contains basics, DSA, and other required for a fresher trying to
          e)Distributed OS.
          f)Clustered OS.
          g)Embedded OS.
+   
    ---Process Scheduling.
        |_1)Long-term scheduler.
          2)Short-term scheduler.
@@ -24,6 +27,7 @@ This repository contains basics, DSA, and other required for a fresher trying to
    ---System Call.
       |_1)System Call commands.
         2)User Mode and Kernel Mode of CPU (I/O Management).
+   
    ---Threading.
        |_1)Single Threading.
          2)Multithreading.
