@@ -33,3 +33,14 @@ This repository contains basics, DSA, and other required for a fresher trying to
          2)Multithreading.
          3)Benefits of Multithreading.
          4)Process VS Threads.
+
+
+
+
+
+
+
+
+
+2) DATABASE MANAGEMENT SYSTEM (DBMS).
+   
